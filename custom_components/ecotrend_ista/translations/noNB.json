@@ -2,24 +2,24 @@
     "config": {
         "abort": {
             "already_configured": "Integrasjonen er allerede konfigurert",
-            "single_instance_allowed": "Allerede konfigurert. Bare en konfiguration er tilatt."
+            "single_instance_allowed": "Allerede konfigurert. Kun én konfigurasjon er tillatt."
         },
         "error": {
             "cannot_connect": "Tilkobling feilet",
-            "auth_inval": "Innlogging feilet. Ukorrekt epostadresse, passord, eller innloggings URL.",
-            "not_allowed": "Den valgte URL er ikke støttet enda"
+            "auth_inval": "Innlogging feilet. Feil e-postadresse, passord eller innloggings-URL.",
+            "not_allowed": "Den valgte URL-en støttes ikke ennå"
         },
         "create_entry": {
-            "default": "ista EcoTrend integrasjon har blitt opprettet!"
+            "default": "ista EcoTrend-integrasjon er opprettet!"
         },
         "step": {
             "german": {
                 "title": "Oppsett av ista EcoTrend",
-                "description": "Konto autentisering",
+                "description": "Kontoautentisering",
                 "data": {
-                    "email": "Epost adresse",
+                    "email": "E-postadresse",
                     "password": "Passord",
-                    "URL": "Innloggings URL",
+                    "URL": "Innloggings-URL",
                     "update_interval": "Oppdateringsintervall (t)"
                 }
             }
@@ -27,13 +27,13 @@
     },
     "options": {
         "error": {
-            "not_allowed": "Den valgte URL er ikke støttet enda"
+            "not_allowed": "Den valgte URL-en støttes ikke ennå"
         },
         "step": {
             "init": {
                 "title": "Innstillinger for ista EcoTrend",
                 "data": {
-                    "URL": "Innloggings URL",
+                    "URL": "Innloggings-URL",
                     "update_interval": "Oppdateringsintervall (t)"
                 }
             }
